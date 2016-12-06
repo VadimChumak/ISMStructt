@@ -1,0 +1,6 @@
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\bin\Debug\ISMStructt.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\bin\Debug\ISMStructt.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\bin\Debug\ISMStructt.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\obj\Debug\ISMStructt.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\obj\Debug\ISMStructt.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\ISM\C#\ISMStructt\ISMStructt\obj\Debug\ISMStructt.pdb
